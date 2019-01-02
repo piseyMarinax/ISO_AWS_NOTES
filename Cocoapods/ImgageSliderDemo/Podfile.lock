@@ -1,0 +1,16 @@
+PODS:
+  - LIHImageSlider (1.0.8)
+
+DEPENDENCIES:
+  - LIHImageSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LIHImageSlider
+
+SPEC CHECKSUMS:
+  LIHImageSlider: ddf90c3a07e6f571b0e57629177a49eaf5bf15a3
+
+PODFILE CHECKSUM: f3755efe7fc12962269da37908ba20ac03348024
+
+COCOAPODS: 1.5.3

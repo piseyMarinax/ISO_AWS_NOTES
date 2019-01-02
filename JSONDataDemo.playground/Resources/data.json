@@ -1,0 +1,18 @@
+{
+    "message": "All user",
+    "count": 3,
+    "users":[
+         {
+             "name" : "Dara",
+             "aga" : 20
+         }
+         {
+             "name" : "Dara1",
+             "aga" : 21
+         }
+         {
+             "name" : "Dara2",
+             "aga" : 22
+         }
+    ]
+}

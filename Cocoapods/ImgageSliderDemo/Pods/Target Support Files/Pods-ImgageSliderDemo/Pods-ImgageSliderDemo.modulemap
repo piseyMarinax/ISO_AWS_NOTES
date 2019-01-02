@@ -1,0 +1,6 @@
+framework module Pods_ImgageSliderDemo {
+  umbrella header "Pods-ImgageSliderDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
